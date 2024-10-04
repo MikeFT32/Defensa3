@@ -1,0 +1,39 @@
+.navbar{
+
+    background-color: aqua;
+}
+.container{
+    margin: 15px;
+    background-color: rgb(240, 221, 57);
+    height: 250px;
+}
+.col-6{
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+}
+.col{
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+
+}
+.container img{
+    width: 200px;
+    height: 250px;
+    border: 20px;
+
+}
+.table{
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    margin: 30px;
+    width: 900px;
+    height: 500px;
+    background-color: aquamarine;
+}
